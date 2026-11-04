@@ -12,20 +12,22 @@ Discover jobs from companies hiring directly through Ultrise.
 
 ## Open roles
 
-A 10-role pilot featuring real, currently active listings from the Ultrise job index. Roles are ordered by most recent publication. Every application link opens the full job detail page on Ultrise.
+A 10-role pilot featuring real, currently active listings from the Ultrise job index. Roles are ordered by most recent publication. Every **Apply** button opens the full job detail page on Ultrise.
 
 | Company | Position | Location | Type | Application |
 | --- | --- | --- | --- | --- |
-| Roku | Software Engineering Internship Program (Summer 2027) | Manchester, UK | Internship | [View on Ultrise](https://www.ultrise.com/jobs/software-engineering-internship-program-summer-2027-a3e32233) |
-| Roku | AI Engineering Internship Program (Summer 2027) | Cambridge, MA, USA | Internship | [View on Ultrise](https://www.ultrise.com/jobs/ai-engineering-internship-program-summer-2027-bf2d864e) |
-| SambaNova Systems | Machine Learning Engineer - New Grad | Austin, TX, USA | New Grad | [View on Ultrise](https://www.ultrise.com/jobs/machine-learning-engineer-new-grad-2b7d83d6) |
-| Duolingo | QA Specialist I, New Graduate | New York, NY, USA | New Grad | [View on Ultrise](https://www.ultrise.com/jobs/qa-specialist-i-new-graduate-3ff8811a) |
-| Shield AI | Summer 2027 Intern - Embedded Firmware - 5810 | Dallas, TX, USA | Internship | [View on Ultrise](https://www.ultrise.com/jobs/summer-2027-intern-embedded-firmware-5810-39c8c30d) |
-| Samsung Semiconductor | Intern, AI Application Engineer | Folsom, CA, USA | Internship | [View on Ultrise](https://www.ultrise.com/jobs/intern-ai-application-engineer-d6477927) |
-| Databricks | Software Engineer - New Grad (2027 Start) - London | London, UK | New Grad | [View on Ultrise](https://www.ultrise.com/jobs/software-engineer-new-grad-2027-start-london-fbc45257) |
-| The New York Times | Backend Engineering Intern, Wirecutter | New York, NY, USA | Internship | [View on Ultrise](https://www.ultrise.com/jobs/backend-engineering-intern-wirecutter-59e86d31) |
-| Samsung Semiconductor | Intern, Systems Software Engineering | San Jose, CA, USA | Internship | [View on Ultrise](https://www.ultrise.com/jobs/intern-systems-software-engineering-d3e4e0d2) |
-| Glean | Software Engineer, University Grad | Mountain View, CA, USA | New Grad | [View on Ultrise](https://www.ultrise.com/jobs/software-engineer-university-grad-c7572980) |
+| [Roku](https://www.ultrise.com/companies/roku) | Software Engineering Internship Program (Summer 2027) | Manchester, UK | Internship | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/software-engineering-internship-program-summer-2027-a3e32233) |
+| [Roku](https://www.ultrise.com/companies/roku) | AI Engineering Internship Program (Summer 2027) | Cambridge, MA, USA | Internship | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/ai-engineering-internship-program-summer-2027-bf2d864e) |
+| [SambaNova Systems](https://www.ultrise.com/companies/sambanova-systems) | Machine Learning Engineer - New Grad | Austin, TX, USA | New Grad | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/machine-learning-engineer-new-grad-2b7d83d6) |
+| [Duolingo](https://www.ultrise.com/companies/duolingo) | QA Specialist I, New Graduate | New York, NY, USA | New Grad | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/qa-specialist-i-new-graduate-3ff8811a) |
+| [Shield AI](https://www.ultrise.com/companies/shield-ai) | Summer 2027 Intern - Embedded Firmware - 5810 | Dallas, TX, USA | Internship | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/summer-2027-intern-embedded-firmware-5810-39c8c30d) |
+| [Samsung Semiconductor](https://www.ultrise.com/companies/samsung-semiconductor) | Intern, AI Application Engineer | Folsom, CA, USA | Internship | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/intern-ai-application-engineer-d6477927) |
+| [Databricks](https://www.ultrise.com/companies/databricks) | Software Engineer - New Grad (2027 Start) - London | London, UK | New Grad | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/software-engineer-new-grad-2027-start-london-fbc45257) |
+| [The New York Times](https://www.ultrise.com/companies/the-new-york-times-a354c2a2) | Backend Engineering Intern, Wirecutter | New York, NY, USA | Internship | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/backend-engineering-intern-wirecutter-59e86d31) |
+| [Samsung Semiconductor](https://www.ultrise.com/companies/samsung-semiconductor) | Intern, Systems Software Engineering | San Jose, CA, USA | Internship | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/intern-systems-software-engineering-d3e4e0d2) |
+| [Glean](https://www.ultrise.com/companies/glean) | Software Engineer, University Grad | Mountain View, CA, USA | New Grad | [![Apply](assets/apply-button.svg)](https://www.ultrise.com/jobs/software-engineer-university-grad-c7572980) |
+
+Company names open the company's page on Ultrise. The **Apply** buttons open the individual job detail page on Ultrise.
 
 ---
 
